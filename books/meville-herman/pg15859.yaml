@@ -1,0 +1,14 @@
+meta:
+  title: The Piazza Tales
+  author: Herman Melville
+  url: https://www.gutenberg.org/cache/epub/15859/pg15859.txt
+content:
+  headerMarker: 74
+  footerMarker: "END OF THE PROJECT GUTENBERG EBOOK"
+  markers:
+    - THE PIAZZA
+    - BARTLEBY
+    - BENITO CERENO
+    - THE LIGHTNING-ROD MAN
+    - THE ENCANTADAS; OR, ENCHANTED ISLES
+    - THE BELL-TOWER

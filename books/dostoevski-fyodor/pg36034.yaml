@@ -1,0 +1,16 @@
+meta:
+  title: White Nights and Other Stories
+  author: Fyodor Dostoevsky
+  url: https://www.gutenberg.org/cache/epub/36034/pg36034.txt
+content:
+  headerMarker: 85
+  footerMarker: 11887
+  markers:
+    - WHITE NIGHTS
+    - NOTES FROM UNDERGROUND
+    - A FAINT HEART
+    - A CHRISTMAS TREE AND A WEDDING
+    - POLZUNKOV
+    - A LITTLE HERO
+    - MR. PROHARTCHIN
+

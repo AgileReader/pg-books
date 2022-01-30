@@ -1,0 +1,20 @@
+meta:
+  title: Short Stories, Volume 12
+  author: Guy de Maupassant
+  url: https://www.gutenberg.org/files/3088/3088-0.txt
+content:
+  headerMarker: 63
+  footerMarker: "End of the Project Gutenberg EBook"
+  markers:
+    - ^THE CHILD
+    - ^A COUNTRY EXCURSION
+    - ^ROSE
+    - ^ROSALIE PRUDENT
+    - ^REGRET
+    - ^A SISTER'S CONFESSION
+    - ^COCO
+    - ^DEAD WOMAN'S SECRET
+    - ^A HUMBLE DRAMA
+    - ^MADEMOISELLE COCOTTE
+    - ^THE CORSICAN BANDIT
+    - ^THE GRAVE

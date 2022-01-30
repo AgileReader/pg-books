@@ -1,0 +1,23 @@
+meta:
+  title: Short Stories, Volume 10
+  author: Guy de Maupassant
+  url: https://www.gutenberg.org/files/3086/3086-0.txt
+content:
+  headerMarker: 63
+  footerMarker: "End of the Project Gutenberg EBook"
+  markers:
+    - ^THE CHRISTENING
+    - ^THE FARMER'S WIFE
+    - ^THE DEVIL
+    - ^THE SNIPE
+    - ^THE WILL
+    - ^WALTER SCHNAFFS' ADVENTURE
+    - ^AT SEA
+    - ^MINUET
+    - ^THE SON
+    - ^THAT PIG OF A MORIN
+    - ^SAINT ANTHONY
+    - ^LASTING LOVE
+    - ^PIERROT
+    - ^A NORMANDY JOKE
+    - ^FATHER MATTHEW

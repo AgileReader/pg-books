@@ -1,0 +1,20 @@
+meta:
+  title: When God Laughs and Other Stories
+  author: Jack London
+  url: https://www.gutenberg.org/files/2545/2545-0.txt
+content:
+  headerMarker: 56
+  footerMarker: "End of Project Gutenberg"
+  markers:
+    - regexp: "(?<title>WHEN GOD LAUGHS) \\(with compliments to Harry Cowell\\)"
+    - THE APOSTATE
+    - A WICKED WOMAN
+    - JUST MEAT
+    - CREATED HE THEM
+    - THE CHINAGO
+    - MAKE WESTING
+    - SEMPER IDEM
+    - A NOSE FOR THE KING
+    - THE "FRANCIS SPAIGHT"
+    - A CURIOUS FRAGMENT
+    - A PIECE OF STEAK

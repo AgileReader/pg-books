@@ -1,0 +1,19 @@
+meta:
+  title: Mosses from an Old Manse and Other Stories
+  author: Nathaniel Hawthorne
+  url: https://www.gutenberg.org/cache/epub/512/pg512.txt
+content:
+  headerMarker: "FROM MOSSES FROM AN OLD MANSE"
+  footerMarker: "End of the Project Gutenberg EBook of"
+  markers:
+    - THE BIRTHMARK
+    - YOUNG GOODMAN BROWN
+    - RAPPACCINI'S DAUGHTER
+    - MRS. BULLFROG
+    - THE CELESTIAL RAILROAD
+    - THE PROCESSION OF LIFE
+    - "FEATHERTOP: A MORALIZED LEGEND"
+    - regexp: "(?<title>EGOTISM);\\[1\\] OR, THE BOSOM SERPENT"
+    - DROWNE'S WOODEN IMAGE
+    - ROGER MALVIN'S BURIAL
+    - THE ARTIST OF THE BEAUTIFUL

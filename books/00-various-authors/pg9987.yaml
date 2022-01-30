@@ -1,0 +1,17 @@
+meta:
+  title: "Stories by Foreign Authors: Spanish"
+  url: https://www.gutenberg.org/cache/epub/9987/pg9987.txt
+content:
+  headerMarker: 54
+  footerMarker: "End of Project Gutenberg's"
+  markers:
+    - title: THE TALL WOMAN
+      author: Pedro Antonio De Alarcon
+    - title: THE WHITE BUTTERFLY
+      author: Jose Selgas
+    - title: THE ORGANIST
+      author: Gustavo Adolfo Becquer
+    - title: MOORS AND CHRISTIANS
+      author: Pedro Antonio De Alarcon
+    - title: BREAD CAST UPON THE WATERS
+      author: Fernan Caballero

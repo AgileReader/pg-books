@@ -1,0 +1,37 @@
+meta:
+  title: Famous Modern Ghost Stories
+  url: https://www.gutenberg.org/cache/epub/15143/pg15143.txt
+content:
+  headerMarker: 427
+  footerMarker: "END OF THE PROJECT GUTENBERG"
+  markers:
+    - title: THE WILLOWS
+      author: ALGERNON BLACKWOOD
+    - title: THE SHADOWS ON THE WALL
+      author: MARY E. WILKINS FREEMAN
+    - title: THE MESSENGER
+      author: ROBERT W. CHAMBERS
+    - title: LAZARUS
+      author: LEONID ANDREYEV
+    - title: THE BEAST WITH FIVE FINGERS
+      author: W.F. HARVEY
+    - title: THE MASS OF SHADOWS
+      author: ANATOLE FRANCE
+    - title: WHAT WAS IT?
+      author: FITZ-JAMES O'BRIEN
+    - title: THE MIDDLE TOE OF THE RIGHT FOOT
+      author: AMBROSE BIERCE
+    - title: THE SHELL OF SENSE
+      author: OLIVIA HOWARD DUNBAR
+    - title: THE WOMAN AT SEVEN BROTHERS
+      author: WILBUR DANIEL STEELE
+    - title: AT THE GATE
+      author: MYLA JO CLOSSER
+    - title: LIGEIA
+      author: EDGAR ALLAN POE
+    - title: THE HAUNTED ORCHARD
+      author: RICHARD LE GALLIENNE
+    - title: THE BOWMEN
+      author: ARTHUR MACHEN
+    - title: A GHOST
+      author: GUY DE MAUPASSANT

@@ -1,0 +1,19 @@
+meta:
+  title: Short Stories, Volume 2
+  author: Guy de Maupassant
+  url: https://www.gutenberg.org/files/3078/3078-0.txt
+content:
+  headerMarker: 45
+  footerMarker: "End of the Project Gutenberg EBook"
+  markers:
+    - ^THE COLONEL'S IDEAS
+    - ^MOTHER SAUVAGE
+    - ^EPIPHANY
+    - ^THE MUSTACHE
+    - ^MADAME BAPTISTE
+    - ^THE QUESTION OF LATIN
+    - ^A MEETING
+    - ^THE BLIND MAN
+    - ^INDISCRETION
+    - ^A FAMILY AFFAIR
+    - ^BESIDE SCHOPENHAUER'S CORPSE

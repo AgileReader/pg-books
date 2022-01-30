@@ -1,0 +1,21 @@
+meta:
+  title: Short Stories, Volume 3
+  author: Guy de Maupassant
+  url: https://www.gutenberg.org/files/3079/3079-0.txt
+content:
+  headerMarker: 63
+  footerMarker: "End of the Project Gutenberg EBook"
+  markers:
+    - ^MISS HARRIET
+    - ^LITTLE LOUISE ROQUE
+    - ^THE DONKEY
+    - ^MOIRON
+    - ^THE DISPENSER OF HOLY WATER
+    - ^A PARRICIDE
+    - ^BERTHA
+    - ^THE PATRON
+    - ^THE DOOR
+    - ^A SALE
+    - ^THE IMPOLITE SEX
+    - ^A WEDDING GIFT
+    - ^THE RELIC

@@ -1,0 +1,20 @@
+meta:
+  title: The Memoirs of Sherlock Holmes
+  author: Arthur Conan Doyle
+  url: https://www.gutenberg.org/files/834/834-0.txt
+content:
+  headerMarker: "XI.	 The Naval Treaty\nXII. The Final Problem"
+  footerMarker: "End of the Project Gutenberg EBook"
+  markers:
+    - I. Silver Blaze
+    - II. The Adventure of the Cardboard Box
+    - III. The Yellow Face
+    - IV. The Stockbroker's Clerk
+    - V. The "_Gloria Scott_"
+    - VI. The Musgrave Ritual
+    - VII. The Reigate Squires
+    - VIII. The Crooked Man
+    - IX. The Resident Patient
+    - X. The Greek Interpreter
+    - XI. The Naval Treaty
+    - XII. The Final Problem

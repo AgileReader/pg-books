@@ -1,0 +1,17 @@
+meta:
+  title: Short Stories
+  author: Fyodor Dostoevsky
+  url: https://www.gutenberg.org/cache/epub/40745/pg40745.txt
+content:
+  headerMarker: 88
+  footerMarker: 8684
+  markers:
+    - AN HONEST THIEF
+    - A NOVEL IN NINE LETTERS
+    - AN UNPLEASANT PREDICAMENT
+    - ANOTHER MAN'S WIFE
+    - THE HEAVENLY CHRISTMAS TREE
+    - THE PEASANT MAREY
+    - THE CROCODILE
+    - BOBOK
+    - THE DREAM OF A RIDICULOUS MAN

@@ -1,0 +1,20 @@
+meta:
+  title: Brown Wolf and Other
+  author: Jack London
+  url: https://www.gutenberg.org/cache/epub/12336/pg12336.txt
+content:
+  headerMarker: 118
+  footerMarker: 6577
+  markers:
+    - ^BROWN WOLF
+    - ^THAT SPOT
+    - ^TRUST
+    - ^ALL GOLD CANYON
+    - ^THE STORY OF KEESH
+    - ^NAM-BOK THE UNVERACIOUS
+    - ^YELLOW HANDKERCHIEF
+    - ^MAKE WESTING
+    - ^THE HEATHEN
+    - ^THE HOBO AND THE FAIRY
+    - '^"JUST MEAT"'
+    - ^A NOSE FOR THE KING

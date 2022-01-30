@@ -1,0 +1,7 @@
+meta:
+  title: Frankenstein
+  author: Mary Shelley
+  url: https://www.gutenberg.org/files/84/84-0.txt
+content:
+  headerMarker: 40
+  footerMarker: "End of the Project Gutenberg EBook"

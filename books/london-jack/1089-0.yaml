@@ -1,0 +1,16 @@
+meta:
+  title: Moon-Face and Other Stories
+  author: Jack London
+  url: https://www.gutenberg.org/files/1089/1089-0.txt
+content:
+  headerMarker: 53
+  footerMarker: "End of Project Gutenberg"
+  markers:
+    - MOON-FACE
+    - THE LEOPARD MAN'S STORY
+    - LOCAL COLOR
+    - AMATEUR NIGHT
+    - THE MINIONS OF MIDAS
+    - THE SHADOW AND THE FLASH
+    - ALL GOLD CANYON
+    - PLANCHETTE

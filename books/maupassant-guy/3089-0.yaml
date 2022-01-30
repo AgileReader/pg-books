@@ -1,0 +1,25 @@
+meta:
+  title: Short Stories, Volume 13
+  author: Guy de Maupassant
+  url: https://www.gutenberg.org/files/3089/3089-0.txt
+content:
+  headerMarker: 66
+  footerMarker: "End of the Project Gutenberg EBook"
+  markers:
+    - ^OLD JUDAS
+    - ^THE LITTLE CASK
+    - ^BOITELLE
+    - ^A WIDOW
+    - ^THE ENGLISHMAN OF ETRETAT
+    - ^MAGNETISM
+    - ^A FATHER'S CONFESSION
+    - ^A MOTHER OF MONSTERS
+    - ^AN UNCOMFORTABLE BED
+    - ^A PORTRAIT
+    - ^THE DRUNKARD
+    - ^THE WARDROBE
+    - ^THE MOUNTAIN POOL
+    - ^A CREMATION
+    - ^MISTI
+    - ^MADAME HERMET
+    - ^THE MAGIC COUCH

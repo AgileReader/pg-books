@@ -1,0 +1,16 @@
+meta:
+  title: Love of Life
+  author: Jack London
+  url: https://www.gutenberg.org/cache/epub/710/pg710.txt
+content:
+  headerMarker: 56
+  footerMarker: "\\*\\*\\*END OF THE PROJECT GUTENBERG "
+  markers:
+    - LOVE OF LIFE
+    - A DAY'S LODGING
+    - THE WHITE MAN'S WAY
+    - THE STORY OF KEESH
+    - THE UNEXPECTED
+    - BROWN WOLF
+    - THE SUN-DOG TRAIL
+    - NEGORE, THE COWARD

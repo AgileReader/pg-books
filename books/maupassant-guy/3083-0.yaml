@@ -1,0 +1,23 @@
+meta:
+  title: Short Stories, Volume 7
+  author: Guy de Maupassant
+  url: https://www.gutenberg.org/files/3083/3083-0.txt
+content:
+  headerMarker: 63
+  footerMarker: "End of the Project Gutenberg EBook"
+  markers:
+    - ^THE FALSE GEMS
+    - ^FASCINATION
+    - ^YVETTE SAMORIS
+    - ^A VENDETTA
+    - ^MY TWENTY-FIVE DAYS
+    - "^\"THE TERROR\""
+    - ^LEGEND OF MONT ST. MICHEL
+    - ^A NEW YEAR'S GIFT
+    - ^FRIEND PATIENCE
+    - ^ABANDONED
+    - ^THE MAISON TELLIER
+    - ^DENIS
+    - ^MY WIFE
+    - ^THE UNKNOWN
+    - ^THE APPARITION

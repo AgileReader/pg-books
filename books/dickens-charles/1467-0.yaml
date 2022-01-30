@@ -1,0 +1,14 @@
+meta:
+  title: Some Christmas Stories
+  author: Charles Dickens
+  url: https://www.gutenberg.org/files/1467/1467-0.txt
+content:
+  headerMarker: 55
+  footerMarker: "\\*\\*\\*END OF THE PROJECT GUTENBERG EBOOK"
+  markers:
+    - A CHRISTMAS TREE.
+    - WHAT CHRISTMAS IS AS WE GROW OLDER.
+    - THE POOR RELATION'S STORY.
+    - THE CHILD'S STORY.
+    - THE SCHOOLBOY'S STORY.
+    - NOBODY'S STORY

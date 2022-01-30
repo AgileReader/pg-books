@@ -1,0 +1,25 @@
+meta:
+  title: Tales and Stories
+  author: Mary Shelley
+  url: https://www.gutenberg.org/files/56665/56665-0.txt
+content:
+  headerMarker: 356
+  footerMarker: 12230
+  markers:
+    - regexp: "[IVX]+\\.[ \\n]+_(?<title>THE SISTERS OF ALBANO)\\._"
+    - regexp: "[IVX]+\\.[ \\n]+_(?<title>FERDINANDO EBOLI)\\._"
+    - regexp: "[IVX]+\\.[ \\n]+_(?<title>THE EVIL EYE)\\._"
+    - regexp: "[IVX]+\\.[ \\n]+_(?<title>THE DREAM)\\._"
+    - regexp: "[IVX]+\\.[ \\n]+_(?<title>THE MOURNER)\\._"
+    - regexp: "[IVX]+\\.[ \\n]+_(?<title>THE FALSE RHYME)\\._"
+    - regexp: "[IVX]+\\.[ \\n]+_(?<title>A TALE OF THE PASSIONS; OR, THE DEATH OF DESPINA)\\._"
+    - regexp: "[IVX]+\\.[ \\n]+_(?<title>THE MORTAL IMMORTAL)\\._"
+    - regexp: "[IVX]+\\.[ \\n]+_(?<title>TRANSFORMATION)\\._"
+    - regexp: "[IVX]+\\.[ \\n]+_(?<title>THE SWISS PEASANT)\\._"
+    - regexp: "[IVX]+\\.[ \\n]+_(?<title>THE INVISIBLE GIRL)\\._"
+    - regexp: "[IVX]+\\.[ \\n]+_(?<title>THE BROTHER AND SISTER)\\._"
+    - regexp: "[IVX]+\\.[ \\n]+_(?<title>THE PARVENUE)\\._"
+    - regexp: "[IVX]+\\.[ \\n]+_(?<title>THE POLE)\\._"
+    - regexp: "[IVX]+\\.[ \\n]+_(?<title>EUPHRASIA)\\._"
+    - regexp: "[IVX]+\\.[ \\n]+_(?<title>THE ELDER SON)\\._"
+    - regexp: "[IVX]+\\.[ \\n]+_(?<title>THE PILGRIMS)\\._"

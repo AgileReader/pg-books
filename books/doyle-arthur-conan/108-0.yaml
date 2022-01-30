@@ -1,0 +1,21 @@
+meta:
+  title: The Return of Sherlock Holmes
+  author: Arthur Conan Doyle
+  url: https://www.gutenberg.org/files/108/108-0.txt
+content:
+  headerMarker: "\n The Adventure of the Abbey Grange\n The Adventure of the Second Stain\n\n"
+  footerMarker: "End of the Project Gutenberg EBook of The Return of Sherlock Holmes"
+  markers:
+    - THE ADVENTURE OF THE EMPTY HOUSE
+    - THE ADVENTURE OF THE NORWOOD BUILDER
+    - THE ADVENTURE OF THE DANCING MEN
+    - THE ADVENTURE OF THE SOLITARY CYCLIST
+    - THE ADVENTURE OF THE PRIORY SCHOOL
+    - THE ADVENTURE OF BLACK PETER
+    - THE ADVENTURE OF CHARLES AUGUSTUS MILVERTON
+    - THE ADVENTURE OF THE SIX NAPOLEONS
+    - THE ADVENTURE OF THE THREE STUDENTS
+    - THE ADVENTURE OF THE GOLDEN PINCE-NEZ
+    - THE ADVENTURE OF THE MISSING THREE-QUARTER
+    - THE ADVENTURE OF THE ABBEY GRANGE
+    - THE ADVENTURE OF THE SECOND STAIN

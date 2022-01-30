@@ -1,0 +1,21 @@
+meta:
+  title: Seven Icelandic Short Stories
+  url: https://www.gutenberg.org/cache/epub/5603/pg5603.txt
+content:
+  headerMarker: 666
+  footerMarker: "End of Project Gutenberg's "
+  markers:
+    - regexp: "^(?<author>ANONYMOUS).*?(?<title>THE STORY OF AUDUNN AND THE BEAR).*?EARLY 13TH CENTURY"
+
+    - regexp: "^(?<author>EINAR H\\. KVARAN).*?(?<title>A DRY SPELL)"
+
+    - regexp: "^(?<author>Guðmundur Friðjónsson).*?(?<title>THE OLD HAY)"
+
+    - regexp: "^(?<author>Jón TRAUSTI).*?(?<title>WHEN I WAS ON THE FRIGATE)"
+
+    - regexp: "^(?<author>GUNNAR GUNNARSSON).*?(?<title>FATHER AND SON)"
+
+    - regexp: "^(?<author>GUDMUNDUR G\\. HAGALIN).*?(?<title>THE FOX SKIN)"
+
+    - regexp: "^(?<author>HALLDOR KILJAN LAXNESS).*?(?<title>NEW ICELAND)"
+

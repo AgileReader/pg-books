@@ -1,0 +1,18 @@
+meta:
+  title: The Fairy Tales
+  author: Charles Perrault
+  url: https://www.gutenberg.org/cache/epub/29021/pg29021.txt
+content:
+  headerMarker: 452
+  footerMarker: "_Uniform with this Volume_"
+  markers:
+    - regexp: "^_Little Red Riding-Hood_[^\\]]*?\\].*?(?<title>Little Red Riding-Hood)"
+    - regexp: "^_The Fairy_[^\\]]*?\\][^\\]]*?\\].*?(?<title>The Fairy)"
+    - regexp: "^_Blue Beard_[^\\]]*?\\][^\\]]*?\\].*?(?<title>Blue Beard)"
+    - regexp: "^_The Sleeping Beauty in the Wood_[^\\]]*?\\][^\\]]*?\\].*?(?<title>The Sleeping Beauty in the Wood)"
+    - regexp: "^_The Master Cat; or, Puss in Boots_.*?\\[Illustration\\].*?(?<title>The Master Cat or Puss in Boots)"
+    - regexp: "^_Cinderilla; or, The Little Glass Slipper_[^\\]]*?\\][^\\]]*?\\].*?(?<title>Cinderilla or The Little Glass Slipper)"
+    - regexp: "^_Riquet with the Tuft_[^\\]]*?\\].*?(?<title>Riquet with the Tuft)"
+    - regexp: "^_Little Thumb_[^\\]]*?\\][^\\]]*?\\].*?(?<title>Little Thumb)"
+    - regexp: "^_The Ridiculous Wishes_[^\\]]*?\\][^\\]]*?\\].*?(?<title>The Ridiculous Wishes)"
+    - regexp: "^_Donkey-skin_[^\\]]*?\\][^\\]]*?\\].*?(?<title>Donkey-skin)"

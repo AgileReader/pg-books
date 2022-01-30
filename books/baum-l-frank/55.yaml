@@ -1,0 +1,7 @@
+meta:
+  title: The Wonderful Wizard of Oz
+  author: L. Frank Baum
+  url: https://www.gutenberg.org/files/55/55.txt
+content:
+  headerMarker: 100
+  footerMarker: "End of the Project Gutenberg EBook"

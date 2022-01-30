@@ -1,0 +1,7 @@
+meta:
+  title: Alice’s Adventures in Wonderland
+  author: Lewis Carroll
+  url: https://www.gutenberg.org/files/11/11-0.txt
+content:
+  headerMarker: 54
+  footerMarker: "End of Project Gutenberg"

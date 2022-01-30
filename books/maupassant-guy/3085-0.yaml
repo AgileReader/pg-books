@@ -1,0 +1,22 @@
+meta:
+  title: Short Stories, Volume 9
+  author: Guy de Maupassant
+  url: https://www.gutenberg.org/files/3085/3085-0.txt
+content:
+  headerMarker: 61
+  footerMarker: "End of the Project Gutenberg EBook"
+  markers:
+    - ^TOINE
+    - ^MADAME HUSSON'S "ROSIER"
+    - ^THE ADOPTED SON
+    - ^COWARD
+    - ^OLD MONGILET
+    - ^MOONLIGHT
+    - ^THE FIRST SNOWFALL
+    - ^SUNDAYS OF A BOURGEOIS
+    - ^A RECOLLECTION
+    - ^OUR LETTERS
+    - ^THE LOVE OF LONG AGO
+    - ^FRIEND JOSEPH
+    - ^THE EFFEMINATES
+    - ^OLD AMABLE

@@ -1,0 +1,14 @@
+meta:
+  title: Wessex Tales
+  author: Thomas Hardy
+  url: http://www.gutenberg.org/cache/epub/3056/pg3056.txt
+content:
+  headerMarker: 112
+  footerMarker: "END OF THE PROJECT GUTENBERG EBOOK"
+  markers:
+    - AN IMAGINATIVE WOMAN
+    - THE THREE STRANGERS
+    - THE WITHERED ARM
+    - FELLOW-TOWNSMEN
+    - INTERLOPERS AT THE KNAP
+    - THE DISTRACTED PREACHER

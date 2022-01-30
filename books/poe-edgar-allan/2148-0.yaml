@@ -1,0 +1,30 @@
+meta:
+  title: The Works of Edgar Allan Poe, Volume 2
+  author: Edgar Allan Poe
+  url: https://www.gutenberg.org/files/2148/2148-0.txt
+content:
+  headerMarker: "Griswold. In this volume the notes are at the end.]"
+  footerMarker: "NOTES TO THE SECOND VOLUME"
+  markers:
+    - "^THE PURLOINED LETTER"
+    - "^THE THOUSAND-AND-SECOND TALE OF SCHEHERAZADE"
+    - "^A DESCENT INTO THE MAELSTROM\\."
+    - "^VON KEMPELEN AND HIS DISCOVERY"
+    - "^MESMERIC REVELATION"
+    - "^THE FACTS IN THE CASE OF M\\. VALDEMAR"
+    - "^THE BLACK CAT\\."
+    - "^THE FALL OF THE HOUSE OF USHER"
+    - "^SILENCE-A FABLE"
+    - "^THE MASQUE OF THE RED DEATH\\."
+    - "^THE CASK OF AMONTILLADO\\."
+    - "^THE IMP OF THE PERVERSE"
+    - "^THE ISLAND OF THE FAY"
+    - "^THE ASSIGNATION"
+    - "^THE PIT AND THE PENDULUM"
+    - "^THE PREMATURE BURIAL"
+    - "^THE DOMAIN OF ARNHEIM"
+    - "^LANDOR'S COTTAGE"
+    - "^WILLIAM WILSON"
+    - "^THE TELL-TALE HEART\\."
+    - "^BERENICE"
+    - "^ELEONORA"

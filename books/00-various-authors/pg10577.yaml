@@ -1,0 +1,53 @@
+meta:
+  title: "International Short Stories: French"
+  url: http://www.gutenberg.org/cache/epub/10577/pg10577.txt
+content:
+  headerMarker: 91
+  footerMarker: "End of Project Gutenberg's"
+  markers:
+    - title: A PIECE OF BREAD
+      author: Francois Coppee
+    - title: THE ELIXIR OF LIFE
+      author: Honore de Balzac
+    - title: THE AGE FOR LOVE
+      author: Paul Bourget
+    - title: MATEO FALCONE
+      author: Prosper Merimee
+    - title: THE MIRROR
+      author: Catulle Mendes
+    - title: MY NEPHEW JOSEPH
+      author: Ludovic Halevy
+    - title: A FOREST BETROTHAL
+      author: Erckmann-Chatrian
+    - title: ZADIG THE BABYLONIAN
+      author: Francois Marie Arouet de Voltaire
+    - title: ABANDONED
+      author: Guy de Maupassant
+    - title: THE GUILTY SECRET
+      author: Paul de Kock
+    - title: JEAN MONETTE
+      author: Eugene Francois Vidocq
+    - title: "SOLANGE\n\nDR. LEDRU'S STORY OF THE REIGN OF TERROR"
+      author: Alexandre Dumas
+    - title: THE BIRDS IN THE LETTER-BOX
+      author: Rene Bazin
+    - title: JEAN GOURDON'S FOUR DAYS
+      author: Emile Zola
+    - title: BARON DE TRENCK
+      author: Clemence Robert
+    - title: THE PASSAGE OF THE RED SEA
+      author: Henry Murger
+    - title: THE WOMAN AND THE CAT
+      author: Marcel Prevost
+    - title: GIL BLAS AND DR. SANGRADO
+      author: Alain Rene Le Sage
+    - title: A FIGHT WITH A CANNON
+      author: Victor Hugo
+    - title: TONTON
+      author: A. Cheneviere
+    - title: THE LAST LESSON
+      author: Alphonse Daudet
+    - title: CROISILLES
+      author: Alfred de Musset
+    - title: THE VASE OF CLAY
+      author: Jean Aicard

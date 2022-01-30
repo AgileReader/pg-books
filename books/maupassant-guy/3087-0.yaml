@@ -1,0 +1,21 @@
+meta:
+  title: Short Stories, Volume 11
+  author: Guy de Maupassant
+  url: https://www.gutenberg.org/files/3087/3087-0.txt
+content:
+  headerMarker: 45
+  footerMarker: "End of the Project Gutenberg EBook"
+  markers:
+    - ^THE UMBRELLA
+    - ^BELHOMME'S BEAST
+    - ^DISCOVERY
+    - ^THE ACCURSED BREAD
+    - ^THE DOWRY
+    - ^THE DIARY OF A MADMAN
+    - ^THE MASK
+    - ^THE PENGUINS' ROCK
+    - ^A FAMILY
+    - ^SUICIDES
+    - ^AN ARTIFICE
+    - ^DREAMS
+    - ^SIMON'S PAPA

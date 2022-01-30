@@ -1,0 +1,27 @@
+meta:
+  title: Short Stories, Volume 8
+  author: Guy de Maupassant
+  url: https://www.gutenberg.org/files/3084/3084-0.txt
+content:
+  headerMarker: 65
+  footerMarker: "End of the Project Gutenberg EBook"
+  markers:
+    - ^CLOCHETTE
+    - ^THE KISS
+    - ^THE LEGION OF HONOR
+    - ^THE TEST
+    - ^FOUND ON A DROWNED MAN
+    - ^THE ORPHAN
+    - ^THE BEGGAR
+    - ^THE RABBIT
+    - ^HIS AVENGER
+    - ^MY UNCLE JULES
+    - ^THE MODEL
+    - ^A VAGABOND
+    - ^THE FISHING HOLE
+    - ^THE SPASM
+    - ^IN THE WOOD
+    - ^MARTINE
+    - ^ALL OVER
+    - ^THE PARROT
+    - ^THE PIECE OF STRING

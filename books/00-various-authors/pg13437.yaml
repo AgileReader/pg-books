@@ -1,0 +1,44 @@
+meta:
+  title: Best Russian Short Stories
+  url: https://www.gutenberg.org/cache/epub/13437/pg13437.txt
+content:
+  headerMarker: 451
+  footerMarker: 11059
+  markers:
+    - title: THE QUEEN OF SPADES
+      author: ALEXSANDR S. PUSHKIN
+    - title: THE CLOAK
+      author: NIKOLAY V. GOGOL
+    - title: THE DISTRICT DOCTOR
+      author: IVAN S. TURGENEV
+    - title: THE CHRISTMAS TREE AND THE WEDDING
+      author: FIODOR M. DOSTOYEVSKY
+    - title: GOD SEES THE TRUTH, BUT WAITS
+      author: LEO N. TOLSTOY
+    - regexp: "(?<title>HOW A MUZHIK FED TWO OFFICIALS).*?BY.*?(?<author>M.Y. SALTYKOV).*?\\]"
+    - title: THE SHADES, A PHANTASY
+      author: VLADIMIR G. KORLENKO
+    - title: THE SIGNAL
+      author: VSEVOLOD M. GARSHIN.
+    - title: THE DARLING
+      author: ANTON P. CHEKOV
+    - title: THE BET
+      author: ANTON P. CHEKHOV
+    - title: VANKA
+      author: ANTON P. CHEKHOV
+    - title: HIDE AND SEEK
+      author: FIODOR SOLOGUB
+    - title: DETHRONED
+      author: I.N. POTAPENKO
+    - title: ^THE SERVANT$
+      author: S.T. SEMYONOV
+    - title: ONE AUTUMN NIGHT
+      author: MAXIM GORKY
+    - title: HER LOVER
+      author: MAXIM GORKY
+    - title: LAZARUS
+      author: LEONID ANDREYEV
+    - title: THE REVOLUTIONIST
+      author: MICHAÏL P. ARTZYBASHEV
+    - title: THE OUTRAGE--A TRUE STORY
+      author: ALEKSANDR I. KUPRIN

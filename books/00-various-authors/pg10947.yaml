@@ -1,0 +1,25 @@
+meta:
+  title: The Best American Humorous Short Stories
+  url: https://www.gutenberg.org/cache/epub/10947/pg10947.txt
+content:
+  headerMarker: 1041
+  footerMarker: "End of the Project Gutenberg EBook"
+  markers:
+    - regexp: "^(?<title>THE LITTLE FRENCHMAN AND HIS WATER LOTS).*?(?<author>George Pope Morris)"
+    - regexp: "^(?<title>THE ANGEL OF THE ODD).*?(?<author>Edgar Allan Poe)"
+    - regexp: "^(?<title>THE SCHOOLMASTER'S PROGRESS).*?(?<author>Caroline M.S. Kirkland)"
+    - regexp: "^(?<title>THE WATKINSON EVENING).*?(?<author>Eliza Leslie)"
+    - regexp: "^(?<title>TITBOTTOM'S SPECTACLES).*?(?<author>George William Curtis)"
+    - regexp: "^(?<title>MY DOUBLE; AND HOW HE UNDID ME).*?(?<author>Edward Everett Hale)"
+    - regexp: "^(?<title>A VISIT TO THE ASYLUM FOR AGED AND DECAYED PUNSTERS).*?(?<author>Oliver Wendell Holmes)"
+    - regexp: "^(?<title>THE CELEBRATED JUMPING FROG OF CALAVERAS COUNTY).*?(?<author>Mark Twain)"
+    - regexp: "^(?<title>ELDER BROWN'S BACKSLIDE).*?(?<author>Harry Stillwell Edwards)"
+    - regexp: "^(?<title>THE HOTEL EXPERIENCE OF MR. PINK FLUKER).*?(?<author>Richard Malcolm Johnston)"
+    - regexp: "^(?<title>THE NICE PEOPLE).*?(?<author>Henry Cuyler Bunner)"
+    - regexp: "^(?<title>THE BULLER-PODINGTON COMPACT).*?(?<author>Frank Richard Stockton)"
+    - regexp: "^(?<title>COLONEL STARBOTTLE FOR THE PLAINTIFF).*?(?<author>Bret Harte)"
+    - regexp: "^(?<title>THE DUPLICITY OF HARGRAVES).*?(?<author>O. Henry)"
+    - regexp: "^(?<title>BARGAIN DAY AT TUTT HOUSE).*?(?<author>George Randolph Chester)"
+    - regexp: "^(?<title>A CALL).*?(?<author>Grace MacGowan Cooke)"
+    - regexp: "^(?<title>HOW THE WIDOW WON THE DEACON).*?(?<author>William James Lampton)"
+    - regexp: "^(?<title>GIDEON).*?(?<author>Wells Hastings)"

@@ -1,0 +1,11 @@
+meta:
+  title: Three Ghost Stories
+  author: Charles Dickens
+  url: https://www.gutenberg.org/files/1289/1289-0.txt
+content:
+  headerMarker: 53
+  footerMarker: "\\*\\*\\*END OF THE PROJECT GUTENBERG EBOOK"
+  markers:
+    - regexp: "(?<title>THE HAUNTED HOUSE).*?\\}"
+    - regexp: "(?<title>THE TRIAL FOR MURDER)\\. \\{303\\}"
+    - regexp: "(?<title>THE SIGNAL-MAN)\\. \\{312\\}"

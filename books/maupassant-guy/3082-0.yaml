@@ -1,0 +1,23 @@
+meta:
+  title: Short Stories, Volume 6
+  author: Guy de Maupassant
+  url: https://www.gutenberg.org/files/3082/3082-0.txt
+content:
+  headerMarker: 45
+  footerMarker: "End of the Project Gutenberg EBook"
+  markers:
+    - ^THAT COSTLY RIDE
+    - ^USELESS BEAUTY
+    - ^THE FATHER
+    - ^MY UNCLE SOSTHENES
+    - ^THE BARONESS
+    - ^MOTHER AND SON
+    - ^THE HAND
+    - ^A TRESS OF HAIR
+    - ^ON THE RIVER
+    - ^THE CRIPPLE
+    - ^A STROLL
+    - ^ALEXANDRE
+    - ^THE LOG
+    - ^JULIE ROMAIN
+    - ^THE RONDOLI SISTERS

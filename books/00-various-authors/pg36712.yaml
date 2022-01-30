@@ -1,0 +1,25 @@
+meta:
+  title: The Best Psychic Stories
+  url: https://www.gutenberg.org/cache/epub/36712/pg36712.txt
+content:
+  headerMarker: 351
+  footerMarker: "End of the Project Gutenberg EBook"
+  markers:
+    - regexp: "(?<title>WHEN THE WORLD WAS YOUNG).*?BY.*?(?<author>Jack London)"
+    - regexp: "(?<title>THE RETURN).*?BY.*?(?<author>Algernon Blackwood)"
+    - regexp: "(?<title>THE SECOND GENERATION).*?BY.*?(?<author>Algernon Blackwood)"
+    - regexp: '(?<title>JOSEPH: A STORY).*?BY.*?(?<author>Katherine Rickford)'
+    - regexp: "(?<title>THE CLAVECIN, BRUGES).*?BY.*?(?<author>George Wharton Edwards)"
+    - regexp: "(?<title>LIGEIA).*?BY.*?(?<author>Edgar Allan Poe)"
+    - regexp: "(?<title>THE SYLPH AND THE FATHER).*?BY.*?(?<author>ELSA BARKER)"
+    - regexp: "(?<title>A GHOST).*?BY.*?(?<author>LAFCADIO HEARN)"
+    - regexp: "(?<title>THE EYES OF THE PANTHER).*?BY.*?(?<author>AMBROSE BIERCE)"
+    - regexp: "(?<title>PHOTOGRAPHING INVISIBLE BEINGS).*?BY.*?(?<author>WM. T. STEAD)"
+    - regexp: "(?<title>THE SIN-EATER).*?BY.*?(?<author>Fiona Macleod)"
+    - regexp: "(?<title>GHOSTS IN SOLID FORM).*?BY.*?(?<author>Gambier Bolton)"
+    - regexp: "(?<title>THE PHANTOM ARMIES SEEN IN FRANCE).*?BY.*?(?<author>Hereward Carrington)"
+    - regexp: "(?<title>THE PORTAL OF THE UNKNOWN).*?BY.*?(?<author>Andrew Jackson Davis), \"THE SEER\""
+    - regexp: "(?<title>THE SUPERNORMAL: EXPERIENCES).*?BY.*?(?<author>ST. JOHN B. SEYMOUR)"
+    - regexp: "(?<title>NATURE-SPIRITS OR ELEMENTALS).*?BY.*?(?<author>Nizida)"
+    - regexp: "(?<title>A WITCH'S DEN).*?BY.*?(?<author>MME. HELENA BLAVATSKY)"
+    - regexp: "(?<title>REMARKABLE PSYCHIC EXPERIENCES OF FAMOUS PERSONS).*?BY.*?(?<author>WALTER F. PRINCE, PH.D.,)"

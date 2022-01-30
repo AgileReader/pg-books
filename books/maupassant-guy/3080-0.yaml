@@ -1,0 +1,20 @@
+meta:
+  title: Short Stories, Volume 4
+  author: Guy de Maupassant
+  url: https://www.gutenberg.org/files/3080/3080-0.txt
+content:
+  headerMarker: 59
+  footerMarker: "End of the Project Gutenberg EBook"
+  markers:
+    - ^THE MORIBUND
+    - ^THE GAMEKEEPER
+    - ^THE STORY OF A FARM GIRL
+    - ^THE WRECK
+    - ^THEODULE SABOT'S CONFESSION
+    - ^THE WRONG HOUSE
+    - ^THE DIAMOND NECKLACE
+    - ^THE MARQUIS DE FUMEROL
+    - ^THE TRIP OF LE HORLA
+    - ^FAREWELL
+    - ^THE WOLF
+    - ^THE INN

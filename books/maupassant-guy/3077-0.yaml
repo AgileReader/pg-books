@@ -1,0 +1,20 @@
+meta:
+  title: Short Stories, Volume 1
+  author: Guy de Maupassant
+  url: https://www.gutenberg.org/files/3077/3077-0.txt
+content:
+  headerMarker: 336
+  footerMarker: "End of the Project Gutenberg EBook"
+  markers:
+    - ^BOULE DE SUIF
+    - ^TWO FRIENDS
+    - ^THE LANCER'S WIFE
+    - ^THE PRISONERS
+    - ^TWO LITTLE SOLDIERS
+    - ^FATHER MILON
+    - ^A COUP D'ETAT
+    - ^LIEUTENANT LARE'S MARRIAGE
+    - ^THE HORRIBLE
+    - ^MADAME PARISSE
+    - ^MADEMOISELLE FIFI
+    - ^A DUEL

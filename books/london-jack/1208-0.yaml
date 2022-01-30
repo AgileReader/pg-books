@@ -1,0 +1,16 @@
+meta:
+  title: South Sea Tales
+  author: Jack London
+  url: https://www.gutenberg.org/files/1208/1208-0.txt
+content:
+  headerMarker: 56
+  footerMarker: "End of the Project Gutenberg EBook"
+  markers:
+    - ^THE HOUSE OF MAPUHI
+    - ^THE WHALE TOOTH
+    - ^MAUKI
+    - ^"YAH! YAH! YAH!"
+    - ^THE HEATHEN
+    - ^THE TERRIBLE SOLOMONS
+    - ^THE INEVITABLE WHITE MAN
+    - ^THE SEED OF McCOY
