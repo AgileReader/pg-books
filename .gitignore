@@ -1,0 +1,2 @@
+output/stories/*
+!output/stories/.gitkeep
