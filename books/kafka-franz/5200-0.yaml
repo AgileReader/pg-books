@@ -4,4 +4,4 @@ meta:
   url: https://www.gutenberg.org/files/5200/5200-0.txt
 content:
   headerMarker: 41
-  footerMarker: "*** END OF THE PROJECT GUTENBERG EBOOK METAMORPHOSIS ***"
+  footerMarker: "\\*\\*\\* END OF THE PROJECT GUTENBERG EBOOK METAMORPHOSIS \\*\\*\\*"
